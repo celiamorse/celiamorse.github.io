@@ -1,0 +1,49 @@
+---
+title: "Celia Morse"
+image: "IMG_6020.JPG"
+links:
+  - label: Resume
+    url: "Resume.pdf"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/celia-morse-33a7bb230/"
+  - label: GitHub
+    url: "https://github.com/celiamorse"
+  - label: Email
+    url: "mailto:celiamorse08@gmail.com"
+output:
+  postcards::solana
+---
+
+## Bio
+
+Hey there! I'm Celia Morse, a student at Simmons University double majoring in Software Development and Statistics. My academic pursuits at Simmons have equipped me with a solid foundation in both software development and the analytical power of statistics. I love writing code and working with data. When I'm not doing that, I enjoy cooking and staying active with CrossFit!
+
+## Education
+
+**Simmons University** \| Boston, MA
+
+B.S. in Statistics \| August 2021 - Current
+
+B.S. in Computer Science \| August 2021- Current
+
+**Acton-Boxborough Regional High School** \| Acton, MA
+
+September 2017 - May 2021
+
+## Experience
+
+**Office Support** \| Simmons University Financial Aid Office, Boston, MA(Sept. 2022-Present)
+
+I help the university's financial aid office by organizing their scholarship database, managing emails, and handling voicemails promptly. I also assist students with questions about financial aid and registration, guiding them through the university's websites. I work closely with colleagues, participating in projects that aim to develop my personal and professional skills. My role contributes to the efficient operation of the financial aid office and improves the experience for students navigating university processes.
+
+**Intern** \| Open Avenues (Oct. 2023 - Dec. 2023)
+
+Developed a Machine Learning model for swift, accurate patient risk assessment, crucial in the resource-constrained COVID-19 era. Under a Project Leader, conducted exploratory data analysis, implemented feature selection, used logistic regression, and crafted a statistical model for mortality risk prediction. Proficient in R, created code with visualizations (histograms, box plots), gaining valuable skills for Data Science professionals.
+
+## Relevant Courses
+
+Business Analytics, Database Management, Regression, Linear Algebra, Machine Learning, Data Structures, Structure of Programming Languages, Probability, Multivariable Calculus, Statistical Theory, Programming in SAS
+
+## Techincal Skills
+
+Data Analysis · Logistic Regression · Teamwork · Data Visualization · Presentations · RStudio · Data Science · Communication · Statistics · Java · C# · HTML · SQL · GitHub · Microsoft Excel · Python · Database Management · Regression Analysis
